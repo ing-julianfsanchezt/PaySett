@@ -1,0 +1,48 @@
+{
+  "Purchase":{
+		"date": "0001-01-01T00:00:00",
+		"madeBy": "Lenovo",
+		"Category":[
+            {
+                "categoryCode": 1,
+                "categoryName": "Categoria 1",
+                "Products":[
+                    {
+                        "code": "P001",
+                        "name": "PC C740",
+                        "description": "Laptop touchscreen",
+                        "quantity": 10,
+                        "unitCost": 950
+                    },
+                    {
+                        "code": "P002",
+                        "name": "PC C790",
+                        "description": "Laptop touchscreen",
+                        "quantity": 5,
+                        "unitCost": 1350
+                    }
+                ]
+            },
+            {
+                "categoryCode": 2,
+                "categoryName": "Categoria 2",
+                "Products":[
+                    {
+                        "code": "P001",
+                        "name": "PC C740",
+                        "description": "Laptop touchscreen",
+                        "quantity": 10,
+                        "unitCost": 950
+                    },
+                    {
+                        "code": "P002",
+                        "name": "PC C790",
+                        "description": "Laptop touchscreen",
+                        "quantity": 5,
+                        "unitCost": 1350
+                    }
+                ]
+            }
+		]
+  }	
+	}

@@ -1,0 +1,90 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{AD63FD90-3242-4B7A-B541-4EBADFF35255}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{3CED05EF-CE1E-41AC-830A-7956695B1A94}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{F71783C6-790F-4DEB-AC9D-A160EC7C4FB6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entities", "Entities", "{9A9B8B1A-2DB4-45E0-935B-63342D5428B3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{8ADB60C7-B60C-4056-A665-E7E81E607487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaySettCompany.WebApp", "PaySettCompany.WebApp\PaySettCompany.WebApp.csproj", "{77202BFC-3C57-4042-A27D-AF7EAABAB9D4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{87D36EB2-E1AA-4D0E-9628-4F78306AC15F} = {87D36EB2-E1AA-4D0E-9628-4F78306AC15F}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaySettCompany.Entities", "PaySettCompany.Entities\PaySettCompany.Entities.csproj", "{B4CE074F-921D-47F4-9966-C809BFBAE10C}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PaySettCompany.Services.WCF(1)", "PaySettCompany.Services.WCF\", "{87D36EB2-E1AA-4D0E-9628-4F78306AC15F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		ProjectReferences = "{b4ce074f-921d-47f4-9966-c809bfbae10c}|PaySettCompany.Entities.dll;{96ced6ff-c4ae-48bc-b0a6-6cac6ba00d7f}|PaySettCompany.Business.dll;{B15D7271-CA17-4CB1-9361-7C069272F5FF}|PaySettCompany.Data.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_56806"
+		Debug.AspNetCompiler.PhysicalPath = "PaySettCompany.Services.WCF\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56806\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_56806"
+		Release.AspNetCompiler.PhysicalPath = "PaySettCompany.Services.WCF\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56806\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "56806"
+		SlnRelativePath = "PaySettCompany.Services.WCF\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaySettCompany.Business", "PaySettCompany.Business\PaySettCompany.Business.csproj", "{96CED6FF-C4AE-48BC-B0A6-6CAC6BA00D7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaySettCompany.Data", "PaySettCompany.Data\PaySettCompany.Data.csproj", "{B15D7271-CA17-4CB1-9361-7C069272F5FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77202BFC-3C57-4042-A27D-AF7EAABAB9D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77202BFC-3C57-4042-A27D-AF7EAABAB9D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77202BFC-3C57-4042-A27D-AF7EAABAB9D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77202BFC-3C57-4042-A27D-AF7EAABAB9D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4CE074F-921D-47F4-9966-C809BFBAE10C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4CE074F-921D-47F4-9966-C809BFBAE10C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4CE074F-921D-47F4-9966-C809BFBAE10C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4CE074F-921D-47F4-9966-C809BFBAE10C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87D36EB2-E1AA-4D0E-9628-4F78306AC15F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87D36EB2-E1AA-4D0E-9628-4F78306AC15F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87D36EB2-E1AA-4D0E-9628-4F78306AC15F}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{87D36EB2-E1AA-4D0E-9628-4F78306AC15F}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{96CED6FF-C4AE-48BC-B0A6-6CAC6BA00D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96CED6FF-C4AE-48BC-B0A6-6CAC6BA00D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96CED6FF-C4AE-48BC-B0A6-6CAC6BA00D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96CED6FF-C4AE-48BC-B0A6-6CAC6BA00D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B15D7271-CA17-4CB1-9361-7C069272F5FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15D7271-CA17-4CB1-9361-7C069272F5FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B15D7271-CA17-4CB1-9361-7C069272F5FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B15D7271-CA17-4CB1-9361-7C069272F5FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{77202BFC-3C57-4042-A27D-AF7EAABAB9D4} = {AD63FD90-3242-4B7A-B541-4EBADFF35255}
+		{B4CE074F-921D-47F4-9966-C809BFBAE10C} = {9A9B8B1A-2DB4-45E0-935B-63342D5428B3}
+		{87D36EB2-E1AA-4D0E-9628-4F78306AC15F} = {3CED05EF-CE1E-41AC-830A-7956695B1A94}
+		{96CED6FF-C4AE-48BC-B0A6-6CAC6BA00D7F} = {8ADB60C7-B60C-4056-A665-E7E81E607487}
+		{B15D7271-CA17-4CB1-9361-7C069272F5FF} = {F71783C6-790F-4DEB-AC9D-A160EC7C4FB6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {782DAEFC-5E2C-4336-9C82-070CBC203192}
+	EndGlobalSection
+EndGlobal

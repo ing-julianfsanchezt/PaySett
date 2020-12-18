@@ -1,0 +1,60 @@
+	{
+		"date": "0001-01-01T00:00:00",
+		"madeBy": "Lenovo",
+		"Category":[
+            {
+                "categoryCode": 1,
+                "categoryName": "Electronics",
+                "Products":[
+                    {
+                        "code": "P001",
+                        "name": "PC C740",
+                        "description": "Laptop touchscreen",
+                        "quantity": 10,
+                        "unitCost": 950
+                    },
+                    {
+                        "code": "P002",
+                        "name": "PC C790",
+                        "description": "Gamer laptop",
+                        "quantity": 5,
+                        "unitCost": 1350
+                    },
+					{
+                        "code": "P003",
+                        "name": "PC ASUS X541",
+                        "description": "Basic laptop for home",
+                        "quantity": 10,
+                        "unitCost": 950
+                    },
+                    {
+                        "code": "P004",
+                        "name": "PC HP dv31",
+                        "description": "Business laptop",
+                        "quantity": 5,
+                        "unitCost": 1350
+                    }
+                ]
+            },
+            {
+                "categoryCode": 2,
+                "categoryName": "Cars",
+                "Products":[
+                    {
+                        "code": "C001",
+                        "name": "Tire SUV",
+                        "description": "Compact SUV tire",
+                        "quantity": 1000,
+                        "unitCost": 300
+                    },
+                    {
+                        "code": "C002",
+                        "name": "Emergency kit",
+                        "description": "Box with first aid utensils",
+                        "quantity": 2000,
+                        "unitCost": 10
+                    }
+                ]
+            }
+		]
+	}

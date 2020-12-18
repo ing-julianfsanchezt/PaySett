@@ -1,0 +1,11 @@
+C:\Users\julia\source\repos\PaySettCompany\PaySettCompany.Business\bin\Debug\PaySettCompany.Business.dll
+C:\Users\julia\source\repos\PaySettCompany\PaySettCompany.Business\bin\Debug\PaySettCompany.Business.pdb
+C:\Users\julia\source\repos\PaySettCompany\PaySettCompany.Business\bin\Debug\PaySettCompany.Data.dll
+C:\Users\julia\source\repos\PaySettCompany\PaySettCompany.Business\bin\Debug\PaySettCompany.Entities.dll
+C:\Users\julia\source\repos\PaySettCompany\PaySettCompany.Business\bin\Debug\PaySettCompany.Data.pdb
+C:\Users\julia\source\repos\PaySettCompany\PaySettCompany.Business\bin\Debug\PaySettCompany.Entities.pdb
+C:\Users\julia\source\repos\PaySettCompany\PaySettCompany.Business\obj\Debug\PaySettCompany.Business.csprojAssemblyReference.cache
+C:\Users\julia\source\repos\PaySettCompany\PaySettCompany.Business\obj\Debug\PaySettCompany.Business.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\PaySettCompany\PaySettCompany.Business\obj\Debug\PaySettCompany.Business.csproj.CopyComplete
+C:\Users\julia\source\repos\PaySettCompany\PaySettCompany.Business\obj\Debug\PaySettCompany.Business.dll
+C:\Users\julia\source\repos\PaySettCompany\PaySettCompany.Business\obj\Debug\PaySettCompany.Business.pdb

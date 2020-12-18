@@ -1,0 +1,5 @@
+C:\Users\julia\source\repos\PaySettCompany\PaySettCompany.Entities\bin\Debug\PaySettCompany.Entities.dll
+C:\Users\julia\source\repos\PaySettCompany\PaySettCompany.Entities\bin\Debug\PaySettCompany.Entities.pdb
+C:\Users\julia\source\repos\PaySettCompany\PaySettCompany.Entities\obj\Debug\PaySettCompany.Entities.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\PaySettCompany\PaySettCompany.Entities\obj\Debug\PaySettCompany.Entities.dll
+C:\Users\julia\source\repos\PaySettCompany\PaySettCompany.Entities\obj\Debug\PaySettCompany.Entities.pdb

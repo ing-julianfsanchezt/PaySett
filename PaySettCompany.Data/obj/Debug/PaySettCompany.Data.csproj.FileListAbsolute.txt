@@ -1,0 +1,9 @@
+C:\Users\julia\source\repos\PaySettCompany\PaySettCompany.Data\bin\Debug\PaySettCompany.Data.dll
+C:\Users\julia\source\repos\PaySettCompany\PaySettCompany.Data\bin\Debug\PaySettCompany.Data.pdb
+C:\Users\julia\source\repos\PaySettCompany\PaySettCompany.Data\bin\Debug\PaySettCompany.Entities.dll
+C:\Users\julia\source\repos\PaySettCompany\PaySettCompany.Data\bin\Debug\PaySettCompany.Entities.pdb
+C:\Users\julia\source\repos\PaySettCompany\PaySettCompany.Data\obj\Debug\PaySettCompany.Data.csprojAssemblyReference.cache
+C:\Users\julia\source\repos\PaySettCompany\PaySettCompany.Data\obj\Debug\PaySettCompany.Data.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\PaySettCompany\PaySettCompany.Data\obj\Debug\PaySettCompany.Data.csproj.CopyComplete
+C:\Users\julia\source\repos\PaySettCompany\PaySettCompany.Data\obj\Debug\PaySettCompany.Data.dll
+C:\Users\julia\source\repos\PaySettCompany\PaySettCompany.Data\obj\Debug\PaySettCompany.Data.pdb
